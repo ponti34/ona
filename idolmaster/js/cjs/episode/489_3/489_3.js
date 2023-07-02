@@ -3789,7 +3789,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.stop();
 	}
 	this.frame_15 = function() {
-		exportRoot._g.m1 = "ﾌﾟ､";
+		exportRoot._g.m1 = "ご、";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -3800,7 +3800,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch1.gotoAndPlay("1s");
 	}
 	this.frame_28 = function() {
-		exportRoot._g.m1 = "ﾌﾟ､ﾌﾟﾛﾃﾞｭｰｻｰさん……";
+		exportRoot._g.m1 = "ご、ご主人様……";
 		exportRoot._u.setText();
 	}
 	this.frame_59 = function() {
@@ -3842,7 +3842,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch1.c.gotoAndStop("def");
 	}
 	this.frame_200 = function() {
-		exportRoot._g.m1 = "着替えた後も緊張して､";
+		exportRoot._g.m1 = "着替えた後に男子さん";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -3864,7 +3864,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		exportRoot._u.setFace("ch1", 1);
 	}
 	this.frame_282 = function() {
-		exportRoot._g.m3 = "これでやっと聞けますね｡";
+		exportRoot._g.m3 = "これでやっと準備完了です｡ ";
 		exportRoot._u.setText();
 		
 		this.ch1.gotoAndPlay("nod");
@@ -3873,7 +3873,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	}
 	this.frame_322 = function() {
 		exportRoot._g.m3 = this.m.t[exportRoot._g.idx][3];
-		exportRoot._g.m4 = "私の水着姿､";
+		exportRoot._g.m4 = "こっひの体で､";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch1", 4);
@@ -3894,7 +3894,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch1.c.gotoAndStop("def");
 	}
 	this.frame_358 = function() {
-		exportRoot._g.m1 = "……あ､";
+		exportRoot._g.m1 = "どうですか？";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -3911,7 +3911,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch1.gotoAndPlay("laugh");
 	}
 	this.frame_392 = function() {
-		exportRoot._g.m2 = "嬉しいですっ!";
+		exportRoot._g.m2 = "んぽピンピン! ";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch1", 5);
@@ -3919,7 +3919,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	this.frame_409 = function() {
 		exportRoot._g.m2 = this.m.t[exportRoot._g.idx][2];
 		exportRoot._g.m3 = this.m.t[exportRoot._g.idx][3];
-		exportRoot._g.m4 = "思って";
+		exportRoot._g.m4 = "思いながら";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch1", 2);
@@ -3943,7 +3943,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch1.c.gotoAndStop("def");
 	}
 	this.frame_466 = function() {
-		exportRoot._g.m1 = "綺麗系とか､";
+		exportRoot._g.m1 = "中出しとか､";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -3954,7 +3954,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		exportRoot._u.setFace("ch2", 6);
 	}
 	this.frame_487 = function() {
-		exportRoot._g.m1 = "綺麗系とか､ｾｸｼｰ系とか､";
+		exportRoot._g.m1 = "中出しとか､ぶっかけとか､";
 		exportRoot._u.setText();
 	}
 	this.frame_513 = function() {
@@ -3963,7 +3963,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		exportRoot._u.setText();
 	}
 	this.frame_556 = function() {
-		exportRoot._g.m3 = "初めて見せるなら､";
+		exportRoot._g.m3 = "美少女アイドル､";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 2);
@@ -4015,7 +4015,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		exportRoot._u.setFace("ch2", 1);
 	}
 	this.frame_691 = function() {
-		exportRoot._g.m3 = "しばらくはふたりで";
+		exportRoot._g.m3 = "おちんぽピンピンして";
 		exportRoot._u.setText();
 		
 		this.ch2.gotoAndPlay("swing");
@@ -4023,13 +4023,13 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	}
 	this.frame_711 = function() {
 		exportRoot._g.m3 = this.m.t[exportRoot._g.idx][3];
-		exportRoot._g.m4 = "しますか?";
+		exportRoot._g.m4 = "ているし、";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 7);
 	}
 	this.frame_734 = function() {
-		exportRoot._g.m4 = "しますか?私は､";
+		exportRoot._g.m4 = "ているし、効果";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 1);
@@ -4048,7 +4048,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch2.c.gotoAndStop("def");
 	}
 	this.frame_757 = function() {
-		exportRoot._g.m1 = "だって､";
+		exportRoot._g.m1 = "私の体､";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -4064,7 +4064,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	}
 	this.frame_796 = function() {
 		exportRoot._g.m2 = this.m.t[exportRoot._g.idx][2];
-		exportRoot._g.m3 = "ことでしたし……";
+		exportRoot._g.m3 = "肉便器たし……";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 2);
@@ -4074,7 +4074,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		exportRoot._u.setFace("ch2", 7);
 	}
 	this.frame_850 = function() {
-		exportRoot._g.m3 = "ことでしたし……あ､";
+		exportRoot._g.m3 = "肉便器たし……では､";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 1);
@@ -4082,7 +4082,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	}
 	this.frame_858 = function() {
 		exportRoot._g.m3 = this.m.t[exportRoot._g.idx][3];
-		exportRoot._g.m4 = "ました｡";
+		exportRoot._g.m4 = "…私に､";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch2", 2);
@@ -4102,7 +4102,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 		this.ch2.c.gotoAndStop("def");
 	}
 	this.frame_893 = function() {
-		exportRoot._g.m1 = "これは";
+		exportRoot._g.m1 = "ご主人様に";
 		exportRoot._g.m2 = "";
 		exportRoot._g.m3 = "";
 		exportRoot._g.m4 = "";
@@ -4114,7 +4114,7 @@ p.nominalBounds = new cjs.Rectangle(-97.4,0,92.4,18);
 	}
 	this.frame_904 = function() {
 		exportRoot._g.m1 = this.m.t[exportRoot._g.idx][1];
-		exportRoot._g.m2 = "選んだ水着なので……";
+		exportRoot._g.m2 = "しみにしていますから､";
 		exportRoot._u.setText();
 		
 		exportRoot._u.setFace("ch3", 7);
